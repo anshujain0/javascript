@@ -42,7 +42,7 @@ const user = {
 }
 
 //object in fucntions
-function handleobj (anyobject) {
+function handleobj (anyobject) { //here anyobject se mtlb generic banan tha
     console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`)
 }
 
