@@ -26,3 +26,5 @@ const shoppingCart = [
 const totalprice = shoppingCart.reduce( (acc,item) => acc+item.price , 0 )
 
 console.log(totalprice)
+
+//Javascript Part1 ended with Basics, controlflow and iterations
